@@ -5,4 +5,5 @@ private:
 	string name;
 	int age;
 	string password;
+	string neww;
 }
