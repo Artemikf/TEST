@@ -7,4 +7,6 @@ void main()
     int b = 6;
     
     cout << "Hello world";
+
+    string = "vasy@mailg.com";
 }
