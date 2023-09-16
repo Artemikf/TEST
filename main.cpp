@@ -7,6 +7,7 @@ int main()
     int b = 6;
     
     cout << "Hello world";
+
     cout << a + b;
     return 0;
 }
